@@ -10,7 +10,7 @@ const quiz = [
     {
         q:'How many mobile i have lost ?',
         options:['1','2','3','4'],
-        answer:1
+        answer:2
     },
     {
         q:'In which case police arrested Raj Kundra ?',
